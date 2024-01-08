@@ -22,7 +22,7 @@ export default defineConfig({
     returnToTopLabel: '返回顶部',
     editLink: {
       text: '在 GitHub 上编辑此页',
-      pattern: 'https://github.com/kameneats/vue-reference/docs/:path'
+      pattern: 'https://github.com/UkiyoLee/vue-reference/docs/:path'
     },
     docFooter: {
       prev: '上一篇',
